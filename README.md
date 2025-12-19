@@ -1,4 +1,4 @@
-# G-VET ASSET & iSTOR SYSTEM v2.0
+# G-VET ASSET & iSTOR SYSTEM v6.0.0 (BETA) 2026
 ## Malaysian Government Official System
 ### Jabatan Perkhidmatan Veterinar Negeri Perak
 
@@ -842,12 +842,11 @@ KEW.PA • KEW.PS • KEW.AH
 
 ## 📞 Support
 
-For government department support:
+For G-VET ASSET & iSTOR SYSTEM v6.0.0 (BETA) 2026 support:
 
 Team Developer
 
 - **Full Stack Developer**: En. Alan
-- **Graphic Design**: En. Naim
 - **Advisor**: Pn. Shasha
 - **QA**: En. Aieman
 - **Helper**: En. Zul
@@ -857,11 +856,17 @@ Team Developer
 
 ## 📄 License
 
-Government Internal Use Only - Malaysian Government License
+This project is licensed under a **Proprietary Government Software License**.
+Unauthorized use, distribution, or modification is strictly prohibited.
 
 ---
 
 **🏛️ Sistem Rasmi Kerajaan Malaysia**  
-**G-VET ASSET & iSTOR MANAGEMENT SYSTEM (KEW.PA, KEW.PS & KEW.AH)**  
+**G-VET ASSET & iSTOR MANAGEMENT SYSTEM (KEW.PA, KEW.PS & KEW.AH) v6.0.0 (BETA) 2026**  
+
+[def]: admin.html# G-Vet-Aset-and-iStor
+
+**🏛️ Sistem Rasmi Kerajaan Malaysia**  
+**G-VET ASSET & iSTOR MANAGEMENT SYSTEM (KEW.PA, KEW.PS & KEW.AH) v6.0.0 (BETA) 2026**  
 
 [def]: admin.html# G-Vet-Aset-and-iStor
